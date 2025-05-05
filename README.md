@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ... information systems 
 - 💞️ I’m looking to collaborate on ... internship and work
 - 📫 How to reach me ... Zereyakob7@gmail.com 
-- 😄 Pronouns: ... male(-_-)
+- 😄 Pronouns: ... male
 - ⚡ Fun fact: ... 
 
