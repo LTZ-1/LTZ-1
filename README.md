@@ -3,7 +3,17 @@
 - 🌱 I’m currently learning ... information systems 
 - 💞️ I’m looking to collaborate on ... internship and work
 - 📫 How to reach me ... Zereyakob7@gmail.com 
-
+- Experienced/interested in:
+    -Backend development
+    -Data processing
+    -System design
+-Currently exploring how to build scalable and impactful applications
+-Enjoy turning ideas into functional products
+-Continuously improving through hands-on projects and collaboration
+Open to:
+Internships
+Collaborative projects
+Opportunities that support growth and real-world impact
 
 # LTZ
 
